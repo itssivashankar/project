@@ -1,0 +1,8 @@
+{
+  "db_username": "infyn",
+  "db_password": "infyn@321",
+  "db_name": "checkdb",
+  "expires_time": 900,
+  "secret":"status"
+
+}
